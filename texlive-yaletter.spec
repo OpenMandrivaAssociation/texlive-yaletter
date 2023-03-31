@@ -1,6 +1,6 @@
 Name:		texlive-yaletter
 Version:	42830
-Release:	1
+Release:	2
 Summary:	Extremely flexible macros for letters, envelopes, and label sheets
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yaletter
