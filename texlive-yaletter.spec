@@ -3,7 +3,7 @@ Version:	42830
 Release:	2
 Summary:	Extremely flexible macros for letters, envelopes, and label sheets
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yaletter
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/yaletter
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yaletter.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yaletter.doc.r%{version}.tar.xz
